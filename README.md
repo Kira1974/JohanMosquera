@@ -1,39 +1,27 @@
-# 👋 Hi, I'm Johan Estiven
-
-Welcome to my GitHub profile! 🚀  
-I'm a **final-year Computer Science student at Universidad Surcolombiana** passionate about **mobile development (Android)** and currently exploring **backend technologies**.  
-
----
-
-## 🖼️ About Me
+<h1 align="center">Hi, I´m <a href="https://kiradev74.vercel.app">KiraDev</a> 👋</h1>
 <p align="center">
-  <img src="IMAGEN" alt="Johan Estiven" width="200" style="border-radius: 50%;" />
+  <img src="https://i.imgur.com/wQNMnYL.png" alt="Johan Estiven"  style="border-radius: 50%;" />
 </p>
 
+
+## About Me 
 - 📱 Focused on building Android applications with **Kotlin/Java** and Android Studio  
 - ⚙️ Learning backend development (**Node.js, Spring Boot, APIs**)  
 - 🎯 Interested in scalable, modern, and user-friendly applications  
 
----
-
 ## 🛠️ Tech Stack
-- **Languages:** Kotlin, Java  
-- **Mobile:** Android Studio, Jetpack Compose  
-- **Backend (learning):** Node.js, Express, Spring Boot  
-- **Tools:** Git, GitHub, Postman, Firebase  
+
+- **Programming Languages:** Kotlin, Java, JavaScript  
+- **Mobile Development:** Android Studio, Jetpack Compose, XML UI, Material Design, Firebase Integration  
+- **Backend Development:** RESTful APIs, Node.js, Express, Spring Boot (in progress)  
+- **Databases:** MySQL, PostgreSQL, Firebase Realtime Database, Firestore  
+- **Tools & Practices:** Git, GitHub, Postman, Agile/Scrum, Clean Architecture, MVVM, Unit Testing  
+ 
 
 ---
 
-## 📌 Featured Projects
-- 🚧 [Project 1](#) – Short description of your project  
-- 🚧 [Project 2](#) – Short description of your project  
-- 🚧 [Project 3](#) – Short description of your project  
-
----
-
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: kiradev.74@gmail.com
+## 📌 My Projects
+-Are on the way 
 
 ---
 ⭐️ Thanks for visiting my profile!
