@@ -6,14 +6,14 @@
 
 ## About Me 
 - 📱 Focused on building Android applications with **Kotlin/Java** and Android Studio  
-- ⚙️ Learning backend development (**Node.js, Spring Boot, APIs**)  
+- ⚙️ Learning backend development (**Java, Spring Boot, APIs**)  
 - 🎯 Interested in scalable, modern, and user-friendly applications  
 
 ## 🛠️ Tech Stack
 
 - **Programming Languages:** Kotlin, Java, JavaScript  
-- **Mobile Development:** Android Studio, Jetpack Compose, XML UI, Material Design, Firebase Integration  
-- **Backend Development:** RESTful APIs, Node.js, Express, Spring Boot (in progress)  
+- **Mobile Development:** Android Studio, Jetpack Compose, XML UI, Material Design,Vue.js, Firebase Integration  
+- **Backend Development:** RESTful APIs, Java, Express, Spring Boot (in progress)  
 - **Databases:** MySQL, PostgreSQL, Firebase Realtime Database, Firestore  
 - **Tools & Practices:** Git, GitHub, Postman, Agile/Scrum, Clean Architecture, MVVM, Unit Testing  
  
